@@ -25,3 +25,4 @@ A: git log shows all the commits and the message related to that commit. git dif
 
 Q: How might using version control make you more confident to make changes that could break something?
 A: this makes me more confident to make any change without fearing the results. If suppose any problem we face due to any commit, we can easily checkout and get back to previous version to see whether the problem was due to that.
+Work from home
