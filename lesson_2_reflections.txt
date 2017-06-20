@@ -3,4 +3,4 @@ A: When we initialize a repository, we can use git commands there.
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: Working directory is the place where files in which we are making changes are there. Staging are ais the place where the files to be commited are added. And repository is the place where commits are made.
-Q: Work from office
+
