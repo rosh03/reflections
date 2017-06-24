@@ -11,4 +11,7 @@ Q: What are some situations when branches would be helpful in keeping your histo
 A: If we want to have many variations to the code, that variations we can have under branches so that we can switch between branches easily by checking out just through branch names.
 
 Q: How do the diagrams help you visualize the branch structure?
-A: It becomes easy to figure out which commits are reachable and which are not. 
+A: It becomes easy to figure out which commits are reachable and which are not.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+A: The result of merging two branches together is that now commits can be seen from single branch, we have changes made in two branches present in single commit. We represent diagram the way so that it becomes easy to figure out which commits can be accessed through the current branch.
