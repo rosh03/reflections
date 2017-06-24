@@ -8,4 +8,7 @@ Q: How can you use the staging area to make sure you have one commit per logical
 A: Before commiting anything, it is first added to staging area so that any of the change should not be lost and before commiting it finally, those changes can be reviewed so that to be sure that we have added one logical commit.
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-A: If we want to have many variations to the code, that variations we can have under branches so that we can switch between branches easily by checking out just through branch names. 
+A: If we want to have many variations to the code, that variations we can have under branches so that we can switch between branches easily by checking out just through branch names.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It becomes easy to figure out which commits are reachable and which are not. 
