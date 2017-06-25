@@ -4,3 +4,8 @@ A: When we wish to share our work with others and want to make necessary changes
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: In the file if it is public any one can make changes, so we will pull the changes if we feel that the commits made are relevant.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Fork: it is total Github concept and clones a repository on Github from Github
+     Clone: It is used to copy the repo from Github to local machine or local machine to local machine
+     Branch: It is done on local machine when some out of the context is to do.
