@@ -12,3 +12,6 @@ A: Fork: it is total Github concept and clones a repository on Github from Githu
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: we can merge the changes made in remote file with the local file by removing conflicts.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: It would be difficult if we wouldn't have used Git or Github.
